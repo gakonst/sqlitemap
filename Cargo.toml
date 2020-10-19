@@ -1,0 +1,8 @@
+[package]
+name = "sqlitemap"
+version = "0.1.0"
+authors = ["Georgios Konstantopoulos <me@gakonst.com>"]
+edition = "2018"
+
+[dependencies]
+rusqlite = "0.24.0"
